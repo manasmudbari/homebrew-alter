@@ -11,7 +11,7 @@
 class Alter < Formula
   desc "A process manager for developers — run and manage any application"
   homepage "https://github.com/manasmudbari/alter-pm"
-  version "0.7.0"
+  version "0.7.0-macos-test"
   license "MIT"
 
   on_macos do
